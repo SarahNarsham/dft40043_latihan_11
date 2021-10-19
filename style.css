@@ -1,0 +1,31 @@
+h1 {
+    color: brown;
+}
+
+h2 {
+    background-color: darksalmon;
+    color: white;
+}
+
+.hitam {
+    color: black;
+}
+
+.kanan {
+    text-align: right;
+}
+
+#tengah {
+    text-align: center;
+}
+
+.penuh {
+    width: 100%; 
+    padding: 10px;  
+    border: 3px red dotted;
+    margin: 5px;
+}
+
+.tinggi {
+    height: 80px;
+}
